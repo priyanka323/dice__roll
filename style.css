@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    
+}
+
+.dice {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+
+#die {
+    width: 120px;
+    height: 120px;
+}
+
+button {
+    font-size: 18px;
+    padding: 10px 20px;
+}
+
+p {
+    font-size: 24px;
+    font-weight: bold;
+    color: green;
+}
